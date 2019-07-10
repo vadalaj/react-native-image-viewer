@@ -61,6 +61,7 @@ export const simpleStyle: {
     right: 0,
     top: 38,
     zIndex: 13,
+    opacity: 0,
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: 'transparent'
@@ -68,6 +69,7 @@ export const simpleStyle: {
   countText: {
     color: 'white',
     fontSize: 16,
+    opacity: 0,
     backgroundColor: 'transparent',
     textShadowColor: 'rgba(0, 0, 0, 0.3)',
     textShadowOffset: {
